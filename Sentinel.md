@@ -5,7 +5,7 @@ This lab was created by Josh Madakor and a link to the video can be found [here]
 
 To start, an Azure account is needed. With this account $200 USD in free credits can be obtained which is much more than enough for this lab as it will only be up for a maximum of 1-2 days.
 Once logged in, the first thing is to go to [Azure Portal](https://www.portal.azure.com). This is going to the main management page in which everything can be accessed easily. A virtual machine will be created
-first with no security measures, as this machine is going to be a honeypot to attract various bots and hackers to gain entry to the VM via RDP." Technically, this can be done on a machine with default specs, 
+first with no security measures, as this machine is going to be a honeypot to attract various bots and hackers to gain entry to the VM via RDP. Technically, this can be done on a machine with default specs, 
 but I found it better to use 2 CPU, 4GB RAM as the performance is much better. In the Networking section, a security group was created that essentially opens all ports. 
 
 ![image](https://github.com/JMacPort/Azure-Sentinel/assets/145376972/2edd1db3-025b-4844-88a5-abfa80e4b839)
