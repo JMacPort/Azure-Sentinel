@@ -70,6 +70,11 @@ Powershell Script Rundown:
 [Link](https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1) to Josh's script
 
 
+**Updated Heat Map ~6 Hours Later**
+![image](https://github.com/JMacPort/Azure-Sentinel/assets/145376972/59aaa8c4-13a4-40cd-aabe-f09c06885d6a)
+
+
+
 
 
 
