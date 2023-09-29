@@ -73,6 +73,17 @@ Powershell Script Rundown:
 **Updated Heat Map ~6 Hours Later**
 ![image](https://github.com/JMacPort/Azure-Sentinel/assets/145376972/59aaa8c4-13a4-40cd-aabe-f09c06885d6a)
 
+**Final Heat Map Update ~20 Hours**
+![image](https://github.com/JMacPort/Azure-Sentinel/assets/145376972/deee30c6-8dde-4350-ad2b-43ad53f2665a)
+
+![image](https://github.com/JMacPort/Azure-Sentinel/assets/145376972/13dfbd5a-6d7c-4fe2-96e3-25144c741d77)
+
+The final conclusion is a Tunisian IP found the machine very early on and attempted to brute force it, nearly non stop. It started about 2 hours after the machine was online and did not stop until it was offline. I even had the VM shut down overnight
+to see if I could get them to stop as it wouldn't be able to connect for 10+ hours but it did not stop and the second it came online there were failed login attempts immediately. From this, I can conclude it is some sort of bot/script
+scraping any IPs it can find and then running username/password bruteforce attacks. I'm sure it will run out of attempts at some point but seen in the picture above, there is most likely endless usernames they can attempt. This lab taught me a few important lessons.
+First being, how to navigate the Azure suite of products comfortably. Secondly, how to interact with APIs with a script. Finally, how to setup a honeypot in order to attract potential adversaries. My learning was not limited to this as I learned more about RDP,
+logs, visualizing data, and more. This lab proved to be a very important step in my Cybersecurity journey because not only did I learn the basics and fundaments of a SIEM, it also showed how brute force attacks really work and where they may come from.
+
 
 
 
