@@ -82,7 +82,7 @@ The final conclusion is a Tunisian IP found the machine very early on and attemp
 to see if I could get them to stop as it wouldn't be able to connect for 10+ hours but it did not stop and the second it came online there were failed login attempts immediately. From this, I can conclude it is some sort of bot/script
 scraping any IPs it can find and then running username/password bruteforce attacks. I'm sure it will run out of attempts at some point but seen in the picture above, there is most likely endless usernames they can attempt. This lab taught me a few important lessons.
 First being, how to navigate the Azure suite of products comfortably. Secondly, how to interact with APIs with a script. Finally, how to setup a honeypot in order to attract potential adversaries. My learning was not limited to this as I learned more about RDP,
-logs, visualizing data, and more. This lab proved to be a very important step in my Cybersecurity journey because not only did I learn the basics and fundaments of a SIEM, it also showed how brute force attacks really work and where they may come from.
+logs, visualizing data, and more.
 
 
 
